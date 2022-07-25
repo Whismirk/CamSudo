@@ -4,6 +4,8 @@ Solves sudoku grids from camera input and displays the results as an overlay, us
 
 run.py to start.
 
+![image](https://user-images.githubusercontent.com/38913690/180710265-6bf71320-d96b-4308-8218-841b538b2a88.png)
+
 Inspired by several other similar projects, like :
 
 https://github.com/Kyubyong/sudoku by Kyubyong
